@@ -2,3 +2,7 @@
 RemoteSystemsTempFiles
 Servers
 lecture1/.settings
+.recommenders/
+lecture1/.classpath
+lecture1/build
+lecture1/.project
